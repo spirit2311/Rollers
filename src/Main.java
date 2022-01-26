@@ -10,6 +10,8 @@ public class Main {
         Rollerblading bodyan = new Rollerblading("Бодян", 65, 1500, 13, 40, "Агресивы", "Razors SL1");
         Rollerblading sheva = new Rollerblading("Шева", 96, 15400, 13, 100, "Free Jump", "Powerslide Tau");
         List<Rollerblading> people = new ArrayList<>();
+
+
         people.add(pinch);
         people.add(zakhar);
         people.add(bodyan);
